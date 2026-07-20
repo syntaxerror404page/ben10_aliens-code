@@ -1,4 +1,4 @@
-aqui les dejare algunas posibles ayudas al crear o con problemas que puedan tener
+aqui les dejare algunas posibles ayudas al crear o con problemas que puedan tener, solo con ejecutar el codigo ben10.ino ya les sirve no necesitan imagenes ni nada, les eh pasado las imagenes de los aliens por si les dan un uno, esas fue las que use en el proyecto
 
 si tienen algunos problemas o se les carga raro la imagen, posiblemente sea porque tienen una pantalla igual pero con un chip distinto, yo al inicio tuve problemas porque usaba librerias distintas a estas, la verdad me ha ayudado mucho gemini entonces no puedo decirles exactamente lo que deben hacer, pero tengan cuidado con eso, igualmente aunque no les funcione, pueden preguntarle a un agente de ia y adaptarla a sus pantallas 
 
