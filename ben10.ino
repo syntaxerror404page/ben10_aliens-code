@@ -1383,16 +1383,16 @@ const unsigned char epd_bitmap_cuatro_brazos [] PROGMEM = {
 #define TOTAL_IMAGENES 20
 
 const unsigned char* listaImagenes[TOTAL_IMAGENES] = {
-  epd_bitmap_fuego,
-	epd_bitmap_bestia,
-	epd_bitmap_diamante,
-	epd_bitmap_xlr8,
-	epd_bitmap_materia_gris,
+  epd_bitmap_bestia,
 	epd_bitmap_cuatro_brazos,
+	epd_bitmap_materia_gris,
+	epd_bitmap_xlr8,
+	epd_bitmap_ultra_t,
+	epd_bitmap_diamante,
 	epd_bitmap_acuatico,
-  epd_bitmap_ultra_t,
-	epd_bitmap_fantasmatico_alien,
 	epd_bitmap_insectoide,
+	epd_bitmap_fantasmatico_alien,
+	epd_bitmap_fuego,
 	epd_bitmap_canonball,
 	epd_bitmap_ben_lobo,
 	epd_bitmap_fantasmaticomejor,
