@@ -7,6 +7,22 @@ si tienen algunos problemas o se les carga raro la imagen, posiblemente sea porq
 #include <Wire.h>
 U8G2_SH1106_128X64_NONAME_2_HW_I2C u8g2(U8G2_R0, /* reset=*/ U8X8_PIN_NONE);
 
+estos son los pines que utilice 
+
+arduino --> pantalla
+3v3 a vcc 
+gnd a gnd 
+A5 a scl 
+A4 a sda 
+
+esas son las conecciones de la pantalla
+
+tambien agregue unos 2 pulsadores para cambiar de aliens 
+pulsador 1: 
+pin digital (pwm)2 a una pata del pulsador y gnd a la otra
+pulsador 2:
+pin digital (pwm)3 a una pierna del pusador y gnd a la otra
+
 
 # ben10_aliens-code
 
@@ -32,3 +48,11 @@ const int epd_bitmap_allArray_LEN = 1;
 const unsigned char* epd_bitmap_allArray[1] = {
 	epd_bitmap_GHSgSyKWwAAur12
 };" , pueden quitarlo, solo copien y peguen lo de arriba
+
+
+
+les compartire tambies estos videos de youtube donde hacen proyectos similares y para que vean como pueden mejorar la idea
+
+https://www.youtube.com/watch?v=orppdWfey5Y
+https://www.youtube.com/watch?v=xoGMAVR0ezg
+https://www.youtube.com/watch?v=lkjPJR9iCuw
