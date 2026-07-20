@@ -10,10 +10,10 @@ U8G2_SH1106_128X64_NONAME_2_HW_I2C u8g2(U8G2_R0, /* reset=*/ U8X8_PIN_NONE);
 estos son los pines que utilice 
 
 arduino --> pantalla
-3v3 a vcc 
+3v3 del arduino a vcc de la pantalla,  
 gnd a gnd 
-A5 a scl 
-A4 a sda 
+A5 del arduino a a scl de la pantalla 
+A4 del arduino a sda de la pantalla
 
 esas son las conecciones de la pantalla
 
